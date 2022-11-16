@@ -1,0 +1,17 @@
+{
+    "name": "Framework.Network",
+    "references": [
+        "Framework.Common",
+        "Feamework.Support",
+        "Framework.Interface"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
