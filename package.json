@@ -9,7 +9,7 @@
         "url": "https://github.com/digitalludens/NetworkSupport.git"
     },
     "dependencies": {
-        "com.digitalludens.interface": "https://github.com/DigitalLudens/Interface.git#main"
+        "com.digitalludens.interface": "https://github.com/DigitalLudens/Interface.git#v0.0.1"
     },
     "author": "beio1541 <beio1541@gmail.com> (https://github.com/digitalludens)"
 }
