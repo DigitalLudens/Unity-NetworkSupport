@@ -1,11 +1,12 @@
-﻿using System;
+﻿using com.DigitalLudens.Network.Socket;
+using System;
 using System.IO;
 using System.Net;
 using UnityEngine;
 
 namespace beio.Network.Socket
 {
-    public abstract class SocketNetwork : MonoBehaviour
+	public abstract class SocketNetwork : MonoBehaviour
     {
         private static SocketNetwork _instance = null;
         public static SocketNetwork Instance => _instance;

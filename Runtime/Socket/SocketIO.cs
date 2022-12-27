@@ -4,7 +4,7 @@ using System.IO;
 using System.Net;
 using System.Net.Sockets;
 
-namespace beio.Network.Socket
+namespace com.DigitalLudens.Network.Socket
 {
     public class SocketIO
     {

@@ -1,9 +1,7 @@
 {
-    "name": "Framework.Network",
+    "name": "Network",
     "references": [
-        "Framework.Common",
-        "Feamework.Support",
-        "Framework.Interface"
+        "DigitalLudens.Interface"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

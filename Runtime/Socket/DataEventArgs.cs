@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace beio.Network.Socket
+namespace com.DigitalLudens.Network.Socket
 {
     public class DataEventArgs : EventArgs
     {

@@ -6,7 +6,7 @@ using System.Collections;
 #endif
 
 
-namespace beio.Network.Web
+namespace com.DigitalLudens.Network.Web
 {
     public abstract class Request : Interface.IRequest
     {

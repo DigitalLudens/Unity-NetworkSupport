@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 using UnityEngine;
 
-namespace beio.Network.Web
+namespace com.DigitalLudens.Network.Web
 {
     public class WebNetwork : MonoBehaviour
     {

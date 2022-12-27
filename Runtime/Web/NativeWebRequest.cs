@@ -1,7 +1,7 @@
 ﻿using System;
 using UnityEngine.Networking;
 
-namespace beio.Network.Web
+namespace com.DigitalLudens.Network.Web
 {
     public sealed class NativeWebRequest : Request
     {
